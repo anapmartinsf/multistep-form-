@@ -1,0 +1,23 @@
+.steps {
+    display: flex;
+    justify-content: space-between;
+    max-width: 25rem;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.step svg {
+    font-size: 2rem;
+}
+
+.step {
+    text-align: center;
+}
+
+.step.active svg {
+    color: #e4717a;
+}
+
+.step.active p {
+    font-weight: bold;
+}
