@@ -1,4 +1,4 @@
-# Formulário multi etapas 
+# Formulário multietapas 
 Este projeto é um formulário de feedback interativo, que permite que os usuários avaliem sua experiência através de um processo de várias etapas.
 
 Projeto desenvolvido utilizando:
