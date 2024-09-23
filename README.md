@@ -4,7 +4,7 @@ Este projeto é um formulário de feedback interativo, que permite que os usuár
 Projeto desenvolvido utilizando:
 - React;
 - CSS;
-- Hook para persistência de dados entre as etapas do formulário.
+- Custom Hook.
 
 ### Preview do projeto:
 
